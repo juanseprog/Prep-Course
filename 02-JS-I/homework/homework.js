@@ -263,6 +263,7 @@ function esVocal(letra){
 
 // No modificar nada debajo de esta línea
 // --------------------------------
+// Nuevos cambios
 
 module.exports = {
   nuevaString,
