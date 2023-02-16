@@ -157,7 +157,6 @@ function agregarMetodoCalculoDescuento (producto) {
     return resultado;
   };
   return producto;
-
 }
 
 // No modificar nada debajo de esta línea
